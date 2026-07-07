@@ -1,0 +1,27 @@
+{
+  "identifier": "storekit-config",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "4.99",
+      "familyShareable": false,
+      "internalID": "nc1",
+      "localizations": [
+        {
+          "description": "Route rating history and favorite route quick-repeat list",
+          "displayName": "Sniffline Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "sniffline_pro_routes",
+      "referenceName": "Sniffline Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
